@@ -1,5 +1,6 @@
 # 4-Claissificateur-d-images-simple
 
+<img width="1904" height="1072" alt="exo4" src="https://github.com/user-attachments/assets/1ca14cfd-776a-47ae-ad6c-6b3f467c2127" />
 
 ## Objectif
 
